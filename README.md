@@ -13,4 +13,4 @@ Algorithms can be found at:
 - Data Structures & Algorithm in Swift
 
 Feel free to solve and share other solutions.
-If you have any questions about the solution, ask me on this repository or email me, martinscarloshenriquej@gmail.com
+If you have any questions about the solution, ask me on this repository or email me, juliaomartinsch@gmail.com
