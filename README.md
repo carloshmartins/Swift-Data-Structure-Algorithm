@@ -4,7 +4,7 @@ This repository is to show all algorithms solved in Swift.
 Inside of this repo you will found this topics & implementation:
 
 # Data Structure
-- [ ] Stack
+- [x] Stack
 - [ ] Queues
 - [ ] Linked List
 - [ ] Graphs
