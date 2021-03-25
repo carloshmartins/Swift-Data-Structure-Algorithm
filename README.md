@@ -40,10 +40,11 @@ Algorithms can be found at:
 
 ## LeetCode
 
-## Books
+## Books for Study
 
-- Cracking The Code Interview
-- Data Structures & Algorithm in Swift
+- Cracking The Code Interview by Gayle Laakmann Mcdowell 6th edition
+- Data Structures & Algorithm in Swift by Matthijs Hollemans
+- De-Coding The Technical Interview Process
 
 Feel free to solve and share other solutions.
 If you have any questions about the solution, ask me on this repository or email me, juliaomartinsch@gmail.com
