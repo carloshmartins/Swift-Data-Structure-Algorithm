@@ -46,5 +46,12 @@ Algorithms can be found at:
 - Data Structures & Algorithm in Swift by Matthijs Hollemans
 - De-Coding The Technical Interview Process
 
+This three are paid book and I really recommend to buy it, they are here for reference only, taking that into account, It will only be shown the references for the questions and its solutions. 
+
+For example:
+
+Questions 3.1 from Cracking The Code Interview will be -> Question 3.1. 
+I won't post the question itself.
+
 Feel free to solve and share other solutions.
 If you have any questions about the solution, ask me on this repository or email me, juliaomartinsch@gmail.com
