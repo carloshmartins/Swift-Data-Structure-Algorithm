@@ -17,6 +17,11 @@
  - Mutating Function
  - Discardable Result
  - CustomStringConvertible
+ 
+ Key points
+ • A stack is a LIFO, last-in first-out, data structure.
+ • Despite being so simple, the stack is a key data structure for many problems.Stacks are crucial to problems that search trees and graphs.
+ • The only two essential operations for the stack are the push method for adding elements and the pop method for removing elements.
 */
 
 import Foundation
