@@ -46,6 +46,13 @@ public struct Stack<Element>: ExpressibleByArrayLiteral {
     public mutating func pop() -> Element? {
         storage.popLast()
     }
+    
+    public func peek() -> Element? {
+     storage.last
+    }
+    public var isEmpty: Bool {
+      peek() == nil
+    }
 }
 
 extension Stack: CustomStringConvertible {
