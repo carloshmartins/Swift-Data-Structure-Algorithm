@@ -6,7 +6,7 @@ Inside of this repo you will found this topics & implementation:
 # Data Structure
 - [x] Stack
 - [ ] Queues
-- [ ] Linked List
+- [x] Linked List
 - [ ] Graphs
 - [ ] Trees
 - [ ] Tries
