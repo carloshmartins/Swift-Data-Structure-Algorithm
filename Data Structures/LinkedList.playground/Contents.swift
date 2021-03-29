@@ -17,3 +17,11 @@ list.push(2)
 list.push(1)
 
 print(list)
+
+var listAppend = LinkedList<Int>()
+
+listAppend.append(1)
+listAppend.append(2)
+listAppend.append(3)
+
+print(listAppend)
