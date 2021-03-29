@@ -26,7 +26,9 @@ extension Node: CustomStringConvertible {
         return "\(String(describing: value)) -> " + String(describing: next) + " "
     }
 }
-
+/*
+ A linked list has the concept of a head and tail, which refers to the first and last nodes of the list respectively.
+ */
 public struct LinkedList<Value> {
     
     public var head: Node<Value>?
@@ -97,6 +99,56 @@ public struct LinkedList<Value> {
         node.next = Node(value: value, next: node.next)
         
         return node.next!
+    }
+    /*
+     There are three main operations for removing nodes:
+     1. pop: Removes the value at the front of the list.
+     2. removeLast: Removes the value at the end of the list.
+     3. remove(at:): Removes a value anywhere in the list.
+     */
+    
+    @discardableResult
+    public mutating func pop() -> Value? {
+        defer {
+            head = head?.next
+            if isEmpty {
+                tail = nil
+            }
+        }
+        return head?.value
+    }
+    
+    @discardableResult
+    public mutating func removeLast() -> Value? {
+    // 1
+      guard let head = head else {
+    return nil
+    }
+    // 2
+      guard head.next != nil else {
+        return pop()
+      }
+    // 3
+      var prev = head
+      var current = head
+      while let next = current.next {
+        prev = current
+        current = next
+      }
+    // 4
+      prev.next = nil
+      tail = prev
+      return current.value
+    }
+    
+    @discardableResult
+    public mutating func remove(after node: Node<Value>) -> Value? {
+      defer {
+        if node.next === tail {
+    tail = node }
+        node.next = node.next?.next
+      }
+      return node.next?.value
     }
 }
 
