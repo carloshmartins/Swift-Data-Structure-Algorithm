@@ -46,7 +46,7 @@ Algorithms can be found at:
 - Data Structures & Algorithm in Swift by Matthijs Hollemans
 - De-Coding The Technical Interview Process
 
-This three are paid book and I really recommend to buy it, they are here for reference only, taking that into account, It will only be shown the references for the questions and its solutions. 
+This three are paid book and I really recommend to buy it, they are here for reference only, taking that into account, It will only be shown the references for the questions and made by me, its solutions. 
 
 For example:
 
