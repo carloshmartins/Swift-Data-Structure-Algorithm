@@ -1,4 +1,4 @@
-# Cracking-the-Code-Interview
+# Algorithms & Data Structures written in Swift
 This repository is to show all algorithms solved in Swift.
 
 Inside of this repo you will found this topics & implementation:
