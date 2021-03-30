@@ -50,7 +50,7 @@ This three are paid book and I really recommend to buy it, they are here for ref
 
 For example:
 
-Questions 3.1 from Cracking The Code Interview will be -> Question 3.1. 
+Questions 3.1 from Cracking The Code Interview will be -> CTCI Folder -> Question 3.1. 
 I won't post the question itself.
 
 Feel free to solve and share other solutions.
