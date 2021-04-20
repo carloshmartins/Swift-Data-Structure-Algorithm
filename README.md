@@ -5,11 +5,11 @@ Inside of this repo you will found this topics & implementation:
 
 # Data Structure
 - [x] Stack
-- [ ] Queues
+- [x] Queues
 - [x] Linked List
-- [ ] Graphs
-- [ ] Trees
-- [ ] Tries
+- [x] Graphs
+- [x] Trees
+- [x] Tries
 
 # Sorting Algorithms
 - [ ] Merge Sort
@@ -47,6 +47,8 @@ Algorithms can be found at:
 - De-Coding The Technical Interview Process
 
 This three are paid book and I really recommend to buy it, they are here for reference only, taking that into account, It will only be shown the references for the questions and made by me, its solutions. 
+
+If any DS is Marked as Done, but you can't find it, probably is inside a Private Branch and I am fixing something.
 
 For example:
 
